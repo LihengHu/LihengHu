@@ -30,11 +30,10 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
   
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 <p>&emsp;&emsp;大家好，我是胡同学。</p>
 <p>&emsp;&emsp;目前就读于上海大学通信与信息工程学院信号与信息处理专业，本科为上海大学通信工程专业。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
+<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名资深后端开发工程师!</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
@@ -55,9 +54,8 @@
 <!-- Awesome repo 比较好的仓库-->
 <a href="https://github.com/LihengHu/RPC-Framework">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LihengHu&repo=RPC-Framework=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/sun0225SUN/Student-Data-Vision">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LihengHu&repo=Student-
-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+<a href="https://github.com/LihengHu/CodeCraft">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LihengHu&repo=CodeCraft&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
 
 </div>
 
