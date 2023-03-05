@@ -1,5 +1,5 @@
 <div align="center">
-  
+
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
@@ -8,7 +8,7 @@
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -29,7 +29,7 @@
 
 <!-- About me 关于我 -->
 ### 🤺 About Me
-  
+
 
 <p>&emsp;&emsp;大家好，我是胡同学。</p>
 <p>&emsp;&emsp;目前就读于上海大学通信与信息工程学院信号与信息处理专业，本科为上海大学通信工程专业。</p>
@@ -53,7 +53,7 @@
 
 <!-- Awesome repo 比较好的仓库-->
 <a href="https://github.com/LihengHu/RPC-Framework">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LihengHu&repo=RPC-Framework=dark&bg_color=121212&hide_border=true" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LihengHu&repo=RPC-Framework&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a href="https://github.com/LihengHu/CodeCraft">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LihengHu&repo=CodeCraft&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
 
