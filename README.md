@@ -1,8 +1,8 @@
 <div align="center">
 
-  <a href="https://github.com/LihengHu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小胡同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
-  </a>
+
+
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 
   <div align="center" style="margin-top: 15px;">
     <img src="https://profile-counter.glitch.me/LihengHu/count.svg" alt="访客统计" />
@@ -32,22 +32,3 @@
 <br><br>
 
 <a href="https://github.com/LihengHu/RPC-Framework">
-  <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=LihengHu&repo=RPC-Framework&theme=dark&bg_color=121212&hide_border=true" />
-</a>
-<a href="https://github.com/LihengHu/CodeCraft">
-  <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=LihengHu&repo=CodeCraft&theme=dark&bg_color=121212&hide_border=true" />
-</a>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LihengHu&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity Graph"/>
-
-</div>
-
----
