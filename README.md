@@ -1,12 +1,14 @@
 <div align="center">
 
+<!-- Awesome repo 比较好的仓库-->
 
+<a href="https://github.com/LihengHu/RPC-Framework">
 
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LihengHu&repo=RPC-Framework&theme=dark&bg_color=121212&hide_border=true" /></a>
 
-  <div align="center" style="margin-top: 15px;">
-    <img src="https://profile-counter.glitch.me/LihengHu/count.svg" alt="访客统计" />
-  </div>
+<a href="https://github.com/LihengHu/CodeCraft">
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LihengHu&repo=CodeCraft&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
 
 </div>
 
@@ -32,3 +34,22 @@
 <br><br>
 
 <a href="https://github.com/LihengHu/RPC-Framework">
+  <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=LihengHu&repo=RPC-Framework&theme=dark&bg_color=121212&hide_border=true" />
+</a>
+<a href="https://github.com/LihengHu/CodeCraft">
+  <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=LihengHu&repo=CodeCraft&theme=dark&bg_color=121212&hide_border=true" />
+</a>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LihengHu&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity Graph"/>
+
+</div>
+
+---
